@@ -1,0 +1,16 @@
+-np 1 ./p0n0ccx0.sh
+-np 1 ./p0n0ccx1.sh
+-np 1 ./p0n1ccx0.sh
+-np 1 ./p0n1ccx1.sh
+-np 1 ./p0n2ccx0.sh
+-np 1 ./p0n2ccx1.sh
+-np 1 ./p0n3ccx0.sh
+-np 1 ./p0n3ccx1.sh
+-np 1 ./p1n0ccx0.sh
+-np 1 ./p1n0ccx1.sh
+-np 1 ./p1n1ccx0.sh
+-np 1 ./p1n1ccx1.sh
+-np 1 ./p1n2ccx0.sh
+-np 1 ./p1n2ccx1.sh
+-np 1 ./p1n3ccx0.sh
+-np 1 ./p1n3ccx1.sh
